@@ -1,7 +1,7 @@
 # -Papers-for-image-caption
 papers i have red for image caption, image description
 
-A. design neural networks
+A. design neural networks and object detection
 
   1. Going deeper with convolutions
   2. Rethinking the Inception Architecture for Computer Vision
