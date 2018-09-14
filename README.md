@@ -37,3 +37,13 @@ D. Reinforcement learning
 E. image segmentation
   1. learning deconvolution network for semantic segmentation
   2.
+
+F. unsupervised learning, Deep Generative Model
+  1. Building high-level features using large scale unsupervised learning
+  2. Auto-encoding variational bayes
+  3. Generative adversarial nets
+  4. Unsupervised representation learning with deep convolutional generative adversarial networks
+  5. DRAW: A recurrent neural network for image generation.
+  6. Pixel recurrent neural networks
+  7. Conditional image generation with PixelCNN decoders
+  8. 
