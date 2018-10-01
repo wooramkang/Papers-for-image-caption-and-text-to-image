@@ -58,7 +58,7 @@ G. image attention machanism
   8. Self-Attention Generative Adversarial Networks
   9.
   
-H. GAN
+H. generative adversarial nets
   1. generative-adversarial-nets
   2. Unsupervised representation learning with deep convolutional generative adversarial networks(dcgan, 2016)
   3. Least Squares Generative Adversarial Networks(LSGAN 2017)
