@@ -53,4 +53,23 @@ G. attention machanism
   3. Self-Attention Generative Adversarial Networks
   4. Bottom-up and top-down attention for image captioning and visual question answering
   5. Generative Image Inpainting with Contextual Attention
-  6.
+  6. Watch What You Just Said: Image Captioning with Text-Conditional Attention
+  7. Aligning where to see and what to tell: image caption with region-based attention and scene factorization
+  8. Self-Attention Generative Adversarial Networks
+  9.
+  
+F. GAN
+  1. generative-adversarial-nets
+  2. Unsupervised representation learning with deep convolutional generative adversarial networks(dcgan, 2016)
+  3. Least Squares Generative Adversarial Networks(LSGAN 2017)
+  4. Semi-Supervised Learning with Generative Adversarial Networks(SLGAN 2016)
+  5. Conditional Generative Adversarial Nets(CGAN 2014)
+  6. Conditional Image Synthesis with Auxiliary Classifier GANs(ACGAN 2017)
+  7. Unpaired Image-to-Image Translation(cycle gan 2017)
+  8. StackGAN, Text to Photo-realistic Image Synthesis(stack gan 2017)
+  9. Wang_Stacked_Conditional_Generative_CVPR_2018_paper
+  10. Mueller_GANerated_Hands_for_CVPR_2018_paper
+  11. chang_PairedCycleGAN_Asymmetric_Style_CVPR_2018_paper
+  12. Finding Tiny Faces in the Wild with Generative Adversarial Network
+  13. Wei_Person_Transfer_GAN_CVPR_2018_paper
+  14. 
