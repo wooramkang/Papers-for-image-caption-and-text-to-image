@@ -47,7 +47,7 @@ F. unsupervised learning, Deep Generative Model
   7. Conditional image generation with PixelCNN decoders
   8. 
 
-G. attention machanism
+G. image attention machanism
   1. Show, Attend and Tell: Neural image caption generation with visual attention
   2. Generating images from captions with attention
   3. Self-Attention Generative Adversarial Networks
