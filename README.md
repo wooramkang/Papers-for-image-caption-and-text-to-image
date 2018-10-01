@@ -26,9 +26,8 @@ C. Image caption
   1. Show and Tell: a neural image caption generator
   2. Show, Adapt and Tell: Adversarial training of cross-domain image captioner
   3. Show, Attend and Tell: Neural image caption generation with visual attention
-  4. Bottom-up and top-down attention for image captioning and visual question answering
-  5. Generating images from captions with attention
-  6.
+  4. 
+  
 D. Reinforcement learning
 
   1. Deep Reinforcement learning-based image captioning with embedding reward
@@ -47,3 +46,9 @@ F. unsupervised learning, Deep Generative Model
   6. Pixel recurrent neural networks
   7. Conditional image generation with PixelCNN decoders
   8. 
+
+G. attention machanism
+  1. Show, Attend and Tell: Neural image caption generation with visual attention
+  2. Generating images from captions with attention
+  3. Self-Attention Generative Adversarial Networks
+  4. Bottom-up and top-down attention for image captioning and visual question answering
