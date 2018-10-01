@@ -52,3 +52,4 @@ G. attention machanism
   2. Generating images from captions with attention
   3. Self-Attention Generative Adversarial Networks
   4. Bottom-up and top-down attention for image captioning and visual question answering
+  5. Generative Image Inpainting with Contextual Attention
