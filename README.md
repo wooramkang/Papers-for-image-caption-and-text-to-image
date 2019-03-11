@@ -1,4 +1,4 @@
-https://github.com/labcontext/text-to-image-with-SNGAN-and-WGAN(=== same git ===)
+https://github.com/labcontext/text-to-image-with-SNGAN-and-WGAN (=== same git ===)
 https://github.com/wooramkang/TEXT-TO-IMAGE-GANs-V.RESEARCH- (=== same git ===)
 
 # -Papers-for-image-caption
