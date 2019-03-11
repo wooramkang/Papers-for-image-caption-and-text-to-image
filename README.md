@@ -1,5 +1,5 @@
-https://github.com/labcontext/text-to-image-with-SNGAN-and-WGAN
-=== same git === https://github.com/wooramkang/TEXT-TO-IMAGE-GANs-V.RESEARCH-
+https://github.com/labcontext/text-to-image-with-SNGAN-and-WGAN(=== same git ===)
+https://github.com/wooramkang/TEXT-TO-IMAGE-GANs-V.RESEARCH- (=== same git ===)
 
 # -Papers-for-image-caption
 papers i have red for image caption, image description
